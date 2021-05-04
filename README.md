@@ -12,4 +12,4 @@ A master boot record (MBR) is a special type of boot sector at the very beginnin
 MBR overwrite is simply overwrite the MBR and we can't boot up again.
 
 
-**_Made by kolale24_**
+**_Made by noboo123_**
